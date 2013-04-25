@@ -3,8 +3,11 @@
     "title": "jQuery PageMe",
     "description": "jQuery plugin for auto paging.",
     "keywords": [
-        "color",
-        "animation"
+        "auto",
+        "paging",
+        "small",
+        "ajax",
+        "transition"
     ],
     "version": "1.0.1",
     "author": {
