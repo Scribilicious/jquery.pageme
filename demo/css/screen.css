@@ -1,0 +1,54 @@
+@charset "utf-8";
+html,body,div,span,h1,h2,h3,h4,h5,h6,p,em,img,small,strong{margin:0;padding:0;border:0;font:inherit;vertical-align:baseline}
+body{display:block;position:relative;max-width:960px;margin:0 auto;padding:20px}
+html{overflow-y:scroll}
+a:hover,a:active{outline:none}
+small{font-size:85%}
+strong,th{font-weight:bold}
+em{font-style:italic}
+::-moz-selection{background:#008bd1;color:#fff}
+::selection{background:#008bd1;color:#fff}
+a:link{-webkit-tap-highlight-color:#f17c0a}
+.ie7 img{-ms-interpolation-mode:bicubic}
+h1,h2,h3,h4,h5,h6{font-weight:bold}
+ol{padding:0 0 0 1.4em;margin:0}
+ul{padding:0 0 0 1em;margin:0}
+body{padding:10px;font:1em "Calibri", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;color:#666;background-color:#fff}
+a{-webkit-transition:color .3s linear;-moz-transition:color .3s linear;-o-transition:color .3s linear;-ms-transition:color .3s linear;transition:color .3s linear}
+a,a:link,a:visited,a:active{color:#008bd1;text-decoration:none}
+a:hover{color:#666;text-decoration:none}
+h1,h2,h3{font-size:3em;color:#000;line-height:auto}
+h2{color:#008bd1;font-size:2em;margin-top:.4em}
+h3{color:#666;font-size:1.5em;margin-top:1em}
+p{font-size:1em;margin:0.5em 0;text-align:justify}
+.header,.footer,.banner,.content{float:left;width:100%}
+.header{position:relative;margin-bottom:20px;min-height:120px;border-bottom:#008bd1 3px solid}
+.logo{float:left;display:block}
+.banner{width:100%}
+.footer{border-top:#008bd1 3px solid;font-size:1em;margin-top:20px}
+.footer p{margin-top:10px;font-size:0.9em;text-align:center}
+.footer img{float:right}
+.content img{float:left;width:50%}
+.navigate{border-top:#008bd1 3px solid;padding:15px 0 0 0;margin:10px 0 0 0}
+.next{float:right}
+.prev{float:left}
+
+/*********************************************************************************************
+* PageMe styles
+*********************************************************************************************/
+.scrollLoad {
+    position : fixed;
+    bottom : 20px;
+    left: 50%;
+    width : 120px;
+    margin-left : -60px;
+    color: #fff;
+    font-weight: bold;
+    background: #000;
+    background-color:rgba(0,0,0,0.9);
+    text-align: center;
+    padding: 10px 0;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
