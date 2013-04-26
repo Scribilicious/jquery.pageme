@@ -1,8 +1,8 @@
 /********************************************************************************
 * jquery.pageme.js - programmed by Jens Eldering (C) 2013 by Atec Media (C)
 *********************************************************************************
-* Version    : 1.0.1
-* Release    : 25-4-2013
+* Version    : 1.0.4
+* Release    : 26-4-2013
 * License    : CC BY-SA 3.0 | http://creativecommons.org/licenses/by-sa/3.0/
 * Script     : Javascript / jQuery
 *
