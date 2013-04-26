@@ -5,11 +5,13 @@
     "keywords": [
         "auto",
         "paging",
-        "small",
+        "scroll",
+        "dynamic",
+        "fast",
         "ajax",
         "transition"
     ],
-    "version": "1.0.2",
+    "version": "1.0.4",
     "author": {
         "name": "Atec Media and Jens Eldering"
     },
